@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithsheshan&show_icons=true&locale=en" alt="janithsheshan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsheshan&" alt="janithsheshan" /></p>
+
+<h3 align="left">GitHub Contributions:</h3>
+![](https://github-contributor-stats.vercel.app/api?username=JanithSheshan&limit=5&theme=flat&combine_all_yearly_contributions=true)
