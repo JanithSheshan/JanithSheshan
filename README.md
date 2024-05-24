@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **janithaththanayaka06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FNYy_znB5sIYjkOdsq7s4ZAR-u1eS5IC/view?usp=sharing](https://drive.google.com/file/d/1FNYy_znB5sIYjkOdsq7s4ZAR-u1eS5IC/view?usp=sharing)
+- 📄 Know about my experiences [https://rb.gy/gq45yy](https://rb.gy/gq45yy)
 
 - ⚡ Fun fact **"Not all those who wander are lost"**
 
