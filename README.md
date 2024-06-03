@@ -30,7 +30,7 @@
 <p display="inline"><img align="left" width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=janithsheshan&show_icons=true&locale=en&layout=compact" alt="janithsheshan" />
 <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api?username=janithsheshan&show_icons=true&locale=en" alt="janithsheshan" />
 <img align="right" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsheshan&" alt="janithsheshan" /></p>
-
+<br>
 <h3 align="left">GitHub Contributions:</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
