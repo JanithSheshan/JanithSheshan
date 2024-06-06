@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithsheshan&label=Profile%20views&color=0e75b6&style=flat" alt="janithsheshan" /> </p>
 
-- 🔭 I’m currently working on [FORGEAR Company](https://forgear.lk/)
+- 🔭 the Co-Founder of [FORGEAR](https://forgear.lk/) Company
 
 - 🌱 I’m currently following **BSc (Hons) in Eng. in Information and Communication Engineering at SLTC Research University**
 
