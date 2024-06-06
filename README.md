@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [FORGEAR Company](https://forgear.lk/)
 
-- 🌱 I’m currently learning **Information and Communication Engineering at SLTC Research University**
+- 🌱 I’m currently following **BSc (Hons) in Eng. in Information and Communication Engineering at SLTC Research University**
 
-- 👨‍💻 All of my projects are available at [https://janithaththanayaka.engineer/](https://janithaththanayaka.engineer/)
+- 👨‍💻 All of my projects are available at [janithaththanayaka.engineer](https://janithaththanayaka.engineer/)
 
 - 📫 How to reach me **janithaththanayaka06@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/gq45yy](https://rb.gy/gq45yy)
+- 📄 Know about my experiences [CV Resume](https://rb.gy/gq45yy)
 
-- ⚡ Fun fact **"Not all those who wander are lost"**
+- ⚡ **"Not all those who wander are lost"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
