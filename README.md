@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently following **BSc (Hons) in Eng. in Information and Communication Engineering at SLTC Research University**
 
-- 👨‍💻 All of my projects are available at [janithaththanayaka.engineer](https://janithaththanayaka.com/)
+- 👨‍💻 All of my projects are available at [janithaththanayaka.com](https://janithaththanayaka.com/)
 
 - 📫 How to reach me **janithaththanayaka06@gmail.com**
 
