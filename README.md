@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Aththanayaka</h1>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JanithSheshan/JanithSheshan/main/bg.png" alt="header background">
+  <img src="https://raw.githubusercontent.com/JanithSheshan/JanithSheshan/main/bg.png" alt="header background" style="width: 100%">
 </div>
 <h3 align="center">Information & Communication Engineer | IoT & AI Enthusiast | Full-Stack Developer</h3>
 
