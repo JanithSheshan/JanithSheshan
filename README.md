@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/JanithSheshan/JanithSheshan/main/bg.png" alt="header background" style="width: 100%">
 </div>
-<h3 align="center">Information & Communication Engineer | IoT & AI Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">BSc Graduate | IoT & AI Enthusiast | Full-Stack Developer| Solution Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/JanithSheshan/JanithSheshan/main/git.gif">
 
